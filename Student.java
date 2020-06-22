@@ -1,5 +1,3 @@
-package quiz;
-
 public class Student {
 	private int score;
 	private String name;
