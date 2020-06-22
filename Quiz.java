@@ -1,5 +1,3 @@
-package quiz;
-
 import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.ArrayList;
